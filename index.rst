@@ -10,6 +10,8 @@ Welcome to WorldWarII's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   WorldWarII
+
 
 
 Indices and tables
